@@ -65,3 +65,7 @@ If you have any questions or would like to contribute please reach out to: aibox
 | Thiago Rotta | @rottathiago | thiago.rotta@microsoft.com |
 | Victor Santana | @Welasco | vsantana@microsoft.com |
 | Sabyasachi Samaddar | @ssamadda | ssamadda@microsoft.com |
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute, please open an issue first to discuss the proposed change before submitting a pull request.
