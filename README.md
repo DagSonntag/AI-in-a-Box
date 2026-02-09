@@ -25,6 +25,12 @@ As we continue to learn from the market, the contributors will look to equip the
   <img src="media/images/aibxtable.png" alt="FTA AI-in-a-Box: Deployment Accelerator" />
 </p>
 
+## Prerequisites
+
+- An active [Azure subscription](https://azure.microsoft.com/free/)
+- [Azure CLI](https://docs.microsoft.com/cli/azure/install-azure-cli) installed
+- Appropriate permissions to create Azure resources
+
 ## Available Guidance
 
 |Topic|Description|
