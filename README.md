@@ -8,7 +8,9 @@
 
 Our intent is to present a curated collection of solution accelerators that can help engineers establish their AI/ML environments and solutions rapidly and with minimal friction, while maintaining the highest standards of quality and efficiency. 
 
-As we continue to learn from the market, the contributors will look to equip the community with the tools and resources necessary to succeed in the ever-evolving AI and ML landscape. 
+As we continue to learn from the market, the contributors will look to equip the community with the tools and resources necessary to succeed in the ever-evolving AI and ML landscape.
+
+> **Note:** Each solution in this repository includes deployment scripts, documentation, and best practices to help you get started quickly.
 
 ## Why AI-in-a-Box?
 * Accelerated Deployment: Speed up your solutions with our proven, ready-to-use patterns.
