@@ -10,11 +10,12 @@ Our intent is to present a curated collection of solution accelerators that can 
 
 As we continue to learn from the market, the contributors will look to equip the community with the tools and resources necessary to succeed in the ever-evolving AI and ML landscape. 
 
-## Why AI-in-a-Box? 
-* Accelerated Deployment: Speed up your solutions with our proven, ready-to-use patterns. 
-* Cost Savings: Maximize your budget by reusing existing code and patterns. 
-* Enhanced Quality & Reliability: Trust in our solutions, validated through real-world scenarios. 
-* Competitive Advantage: Outpace competitors by accelerating solution deployment. 
+## Why AI-in-a-Box?
+* Accelerated Deployment: Speed up your solutions with our proven, ready-to-use patterns.
+* Cost Savings: Maximize your budget by reusing existing code and patterns.
+* Enhanced Quality & Reliability: Trust in our solutions, validated through real-world scenarios.
+* Competitive Advantage: Outpace competitors by accelerating solution deployment.
+* Security First: All solutions follow security best practices and include threat modeling guidance.
 
 <br/>
 <br/>
